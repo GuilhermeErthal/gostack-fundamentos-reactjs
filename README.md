@@ -7,6 +7,6 @@ In order to find out more, check out the **[instructions repository](https://git
 
 ## GO Finances
 
-![Gofinances](https://github.com/GuilhermeErthal/gostack-fundamentos-reactjs/blob/master/src/assets/GoFinances.png)
+![Gofinances](https://github.com/GuilhermeErthal/gostack-fundamentos-reactjs/blob/master/src/assets/GoFinances.PNG)
 
-![Gofinances](https://github.com/GuilhermeErthal/gostack-fundamentos-reactjs/blob/master/src/assets/GoFinances2.png)
+![Gofinances](https://github.com/GuilhermeErthal/gostack-fundamentos-reactjs/blob/master/src/assets/GoFinances.PNG)
